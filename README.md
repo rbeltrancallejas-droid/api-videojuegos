@@ -104,6 +104,6 @@ Una vez aplicados los cambios finales, ejecuta estos comandos en tu terminal int
 
 ## 👨‍💻 Autor y Soporte
 
-- **Desarrollador:** Roberto Beltrán Callejas
+- **Desarrollador:** Raúl Alejandro Beltrán Callejas
 - **Correo Electrónico:** rbeltrancallejas@gmail.com
 - **Repositorio:** [github.com/rbeltrancallejas-droid](https://github.com/rbeltrancallejas-droid)
